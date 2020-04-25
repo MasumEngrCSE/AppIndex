@@ -1,9 +1,0 @@
-[{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "com.news.newspaperread",
-    "sha256_cert_fingerprints":
-    ["AD:28:D5:6C:F6:D2:F4:8E:B1:32:E2:F9:1E:13:6F:AE:E6:6F:51:C5:F3:03:52:25:B3:44:13:DE:59:0C:F4:CF"]
-  }
-}]
